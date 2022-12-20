@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 21 20:37:10 2022
-
-@author: Ronald Nyasha Kanyepi
-@email : kanyepironald@gmail.com
-"""
-
 import os
 import pandas as pd
 import streamlit as st
@@ -14,7 +6,7 @@ from streamlit_option_menu import option_menu
 from streamlit_folium import folium_static
 import folium
 import requests
-from requests.exceptions import Conne ctionError
+from requests.exceptions import ConnectionError
 
 
 def config():
