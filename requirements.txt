@@ -4,7 +4,6 @@ folium
 requests
 Pillow
 streamlit_folium
-streamlit_option_menu
 os
 numpy
 Image
