@@ -1,9 +1,10 @@
-pandas==
+pandas
 streamlit
-folium==0.12.1.post1
+folium
 requests
 Pillow
 streamlit_folium
 streamlit_option_menu
-pip
+os
 numpy
+Image
